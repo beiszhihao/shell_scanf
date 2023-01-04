@@ -1,6 +1,5 @@
 # Let's get started
 Now! make your `scanf` flexible
-<video src="./img/demo.mp4"></video>
 
 # Build
 ```bash
