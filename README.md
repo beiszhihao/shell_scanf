@@ -1,6 +1,6 @@
 # Let's get started
 Now! make your `scanf` flexible
-<iframe height=498 width=510 src="./img/demo.mp4">
+<video src="./img/demo.mp4"></video>
 
 # Build
 ```bash
